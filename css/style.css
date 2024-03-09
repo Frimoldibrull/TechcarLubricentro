@@ -1,0 +1,79 @@
+html{
+    background-color: gray;
+}
+
+.inicio {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:gray;
+    text-align: left;
+    
+
+}
+.icono {
+   width: 90px;
+   height: 90px;
+}
+.seccion1{
+    background-color: yellow;
+   
+}
+
+.precentacion{
+    color: gray;
+    font-size: 80px;
+    font-style: normal;
+
+}
+.lista1{
+    font-size: 40px;
+    position: relative;
+    top: 100px;
+}
+.foto1{
+    position: relative;
+    left: 900px;top: -200px;
+    width: 300px;
+   height: 300px;
+    
+}
+
+.seccion2{
+    
+
+}
+.precentacion2{
+    font-size: 60px;
+    font-style: normal;
+    text-align: center;
+    
+}
+.fotocara2{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 100px;
+    border-radius: 50%;
+}
+.Carlos{
+    font-size: 30px;
+    position: relative;
+    left: 50px;
+}
+.fotocara3{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 400px; top:-240px;
+    border-radius: 50%;
+}
+.Manuel{
+    font-size: 30px;
+    position: relative;
+    left: 370px; top:-250px;
+}
+
+
+.teclasubir{
+    
+}
